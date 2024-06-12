@@ -1,0 +1,19 @@
+2024-04-26 19:43:18 - Application started
+2024-04-26 19:43:19 - GUI_SENSOR instance created
+2024-04-26 19:43:19 - Sensor_One instance created
+2024-04-26 19:43:19 - GUI_SENSOR frame shown
+2024-04-26 19:43:19 - Application ended
+2024-04-26 19:47:44 - Application started
+2024-04-26 19:47:44 - GUI_SENSOR instance created
+2024-04-26 19:47:44 - [ERROR] Unhandled exception occurred: Failed to open serial port
+2024-04-26 19:48:14 - Application started
+2024-04-26 19:48:14 - GUI_SENSOR instance created
+2024-04-26 19:48:14 - Sensor_One instance created
+2024-04-26 19:48:14 - [CONSOLE] GUI_SENSOR frame shown
+2024-04-26 19:48:14 - Application ended
+2024-04-26 19:50:22 - Application started
+2024-04-26 19:50:22 - GUI_SENSOR instance created
+2024-04-26 19:50:22 - [CONSOLE] Arduino detected on COM3
+2024-04-26 19:50:22 - Sensor_One instance created
+2024-04-26 19:50:22 - GUI_SENSOR frame shown
+2024-04-26 19:50:22 - Application ended
